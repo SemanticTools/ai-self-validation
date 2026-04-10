@@ -14,7 +14,7 @@ This repo contains the full technical report from **Sigmantics AB** — the prob
 
 ### 📄 The Paper
 
-**[Read the full report → the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.pdf](the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.pdf)**
+**[Read the full report → the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.pdf](the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.1.pdf)**
 
 (12 pages · includes claim taxonomy, confidence scoring function, groundedness escalation protocol, implementation cost model, and the real-world fabricated-citation demonstration)
 
