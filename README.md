@@ -33,4 +33,4 @@ The goal is not to make AI infallible. The goal is to make AI failure modes **vi
 ---
 
 **Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**  
-Made with [AssetForge](https://github.com/sigmantics/assetforge) · Sigmantics AB · Stockholm, 2026
+Made for Sigmantics AB · Stockholm, 2026
