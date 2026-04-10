@@ -20,8 +20,8 @@ This repo contains the full technical report from **Sigmantics AB** — the prob
 
 ### What's inside the repo
 
-- `the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.pdf` — the complete technical report
-- `the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.docx` — editable source document
+- `the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.1.pdf` — the complete technical report
+- `the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.1.docx` — editable source document
 - `LICENSE` — CC BY 4.0
 
 ### Key takeaway
