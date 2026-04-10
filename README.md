@@ -2,7 +2,7 @@
 
 **Correlated Errors, Cross-Model Validation, and the Architecture of Machine Confidence**
 
-Dusty Wilhelm Murray · Sigmantics AB · March 2026 · v4.0
+Dusty Wilhelm Murray · Sigmantics AB · March 2026 · v4.1
 
 ### When you ask an AI to verify its own output, why does it still fail — and what does a verification architecture that actually works look like?
 
@@ -14,7 +14,7 @@ This repo contains the full technical report from **Sigmantics AB** — the prob
 
 ### 📄 The Paper
 
-**[Read the full report → the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.pdf](the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.1.pdf)**
+**[Read the full report → the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.1.pdf](the-pitfalls-and-necessity-of-verifying-ai-artifacts-with-ai-v4.1.pdf)**
 
 (12 pages · includes claim taxonomy, confidence scoring function, groundedness escalation protocol, implementation cost model, and the real-world fabricated-citation demonstration)
 
